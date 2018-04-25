@@ -1,0 +1,14 @@
+table {
+  border: .5px solid lightgray;
+  border-bottom: 1px solid gray
+}
+tbody tr:hover {
+  text-align: center;
+}
+th, td {
+  text-align: center;
+}
+thead {
+  color: white;
+  background-color: lightcoral;
+}
